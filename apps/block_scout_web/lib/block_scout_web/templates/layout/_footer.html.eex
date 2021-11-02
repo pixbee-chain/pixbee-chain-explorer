@@ -4,7 +4,7 @@
             <div class="flex_between flex_items">
                 <div class="flex_column">
                     <img class="mt10" src="<%= logo_footer() %>" fit="cover" style="width:187px;" alt="<%= subnetwork_title() %>">
-                    <p class="f12 mt10" style="color: #999898;">©2021 - 2022 <a style="color: #397DFA;" href="https://pixie.mobi">Pixie.mobi</a> All rights reserved.</p>
+                    <p class="f12 mt10" style="color: #999898;">©2021 - 2022 <a style="color: #397DFA;" href="https://pixie.xyz">Pixie.xyz</a> All rights reserved.</p>
                 </div>
                 <div class="flex_start flex_items">
                     <a href="https://www.facebook.com/Pixie-102062365542011" target="_blank">
